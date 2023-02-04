@@ -53,9 +53,9 @@ class _page2State extends State<page2> {
               height: 20,
             ),
             ElevatedButton(
-              child: Text("Main Page",style: TextStyle(color:Colors.white),),
+              child: Text("Login",style: TextStyle(color:Colors.white),),
               onPressed: (){
-                print('HI Antor');
+
               },
             )
           ],
