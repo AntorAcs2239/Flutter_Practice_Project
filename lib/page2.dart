@@ -55,7 +55,6 @@ class _page2State extends State<page2> {
             ElevatedButton(
               child: Text("Login",style: TextStyle(color:Colors.white),),
               onPressed: (){
-
               },
             )
           ],
