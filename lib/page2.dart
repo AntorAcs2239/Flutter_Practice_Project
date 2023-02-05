@@ -67,7 +67,7 @@ class _page2State extends State<page2> {
                     flag = true;
                   });
                   await Future.delayed(Duration(seconds: 1));
-                  await Navigator.pushNamed(context, .home);
+                  await Navigator.pushNamed(context, All_routes.home);
                   setState(() {
                     flag = false;
                   });
